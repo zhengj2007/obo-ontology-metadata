@@ -1,1 +1,1 @@
-"# obo-ontology-metadata" 
+Oontology metadata for OBO Foundry ontologies
